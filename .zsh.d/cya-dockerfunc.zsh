@@ -2,7 +2,6 @@
 #
 # Wrapper functions for CYA calls to Docker
 # See  https://github.com/v4tech/cya-project
-set -e
 
 CYA_CONTAINER=v4tech/cya-email
 CYA_CONFIG_DIR=${HOME}/work/CYA-config
